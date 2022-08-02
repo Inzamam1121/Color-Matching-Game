@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Visual Studio Projects\Game1\main.c(108,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game1.vcxproj -> E:\Visual Studio Projects\Game1\x64\Debug\Game1.exe
